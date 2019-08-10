@@ -1,0 +1,11 @@
+C:\Users\Pope\Desktop\C#\ping-pong\bin\Debug\netcoreapp2.2\pingPong.deps.json
+C:\Users\Pope\Desktop\C#\ping-pong\bin\Debug\netcoreapp2.2\pingPong.runtimeconfig.json
+C:\Users\Pope\Desktop\C#\ping-pong\bin\Debug\netcoreapp2.2\pingPong.runtimeconfig.dev.json
+C:\Users\Pope\Desktop\C#\ping-pong\bin\Debug\netcoreapp2.2\pingPong.dll
+C:\Users\Pope\Desktop\C#\ping-pong\bin\Debug\netcoreapp2.2\pingPong.pdb
+C:\Users\Pope\Desktop\C#\ping-pong\obj\Debug\netcoreapp2.2\pingPong.csprojAssemblyReference.cache
+C:\Users\Pope\Desktop\C#\ping-pong\obj\Debug\netcoreapp2.2\pingPong.csproj.CoreCompileInputs.cache
+C:\Users\Pope\Desktop\C#\ping-pong\obj\Debug\netcoreapp2.2\pingPong.AssemblyInfoInputs.cache
+C:\Users\Pope\Desktop\C#\ping-pong\obj\Debug\netcoreapp2.2\pingPong.AssemblyInfo.cs
+C:\Users\Pope\Desktop\C#\ping-pong\obj\Debug\netcoreapp2.2\pingPong.dll
+C:\Users\Pope\Desktop\C#\ping-pong\obj\Debug\netcoreapp2.2\pingPong.pdb
